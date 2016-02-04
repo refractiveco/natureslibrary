@@ -6,7 +6,7 @@ Research work has been conducted using this application to test whether login pa
 
 _To Sign Up, or not to Sign Up? Maximizing Citizen Science Contribution Rates through Optional Registration_, published at [CHI 2016](http://chi2016.acm.org/).
 
-[View the paper at ResearchGate »](https://www.researchgate.net/publication/291356235_To_Sign_Up_or_not_to_Sign_Up_Maximizing_Citizen_Science_Contribution_Rates_through_Optional_Registration).
+[View the paper at ResearchGate »](https://www.researchgate.net/publication/291356235_To_Sign_Up_or_not_to_Sign_Up_Maximizing_Citizen_Science_Contribution_Rates_through_Optional_Registration)
 
 The code is posted here to assist other researchers and citizen science projects in their work.
 
