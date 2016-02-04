@@ -16,7 +16,8 @@ The code is posted here to assist other researchers and citizen science projects
 2. Create a MySQL database from sql/rnl.sql
 3. Edit application/config/config.php, updating the base_url variable (localhost or domain name)
 4. Edit application/config/database.php with the database details
-5. Images are hosted externally using the cloud image hosting service [http://cloudinary.com/](cloudinary.com)
+5. Edit the paths and variables in public/index.php
+6. Images are hosted externally using the cloud image hosting service [http://cloudinary.com/](cloudinary.com)
 
 ## License
 

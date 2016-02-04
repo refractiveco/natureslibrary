@@ -62,7 +62,7 @@ $whitelist = array(
  * as this file.
  *
  */
-	$system_path = (!in_array($_SERVER['REMOTE_ADDR'], $whitelist)) ? '/var/www/msc.refractive.co/system': '/Users/robdunne/code/msc-project/system';
+	$system_path = (!in_array($_SERVER['REMOTE_ADDR'], $whitelist)) ? '/var/www/html/system': '/your/local/path/system';
 
 /*
  *---------------------------------------------------------------
@@ -78,7 +78,7 @@ $whitelist = array(
  * NO TRAILING SLASH!
  *
  */
-	$application_folder = (!in_array($_SERVER['REMOTE_ADDR'], $whitelist)) ? '/var/www/msc.refractive.co/application': '/Users/robdunne/code/msc-project/application';
+	$application_folder = (!in_array($_SERVER['REMOTE_ADDR'], $whitelist)) ? '/var/www/html/application': '/your/local/path/application';
 
 /*
  * --------------------------------------------------------------------
