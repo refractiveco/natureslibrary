@@ -1,14 +1,12 @@
 # Reading Nature's Library
 
-Reading Nature's Library is a citizen science project where anyone can help Manchester Museum catalogue their fossil collection.
-
-The collection is broken down into projects, such as fossil corals. Images of these are viewed by members of the public who input the label data from the images to build a database of the collection.
+Reading Nature's Library is a citizen science project where anyone can help Manchester Museum catalogue their fossil collection. Images of the fossils are viewed by members of the public who input the label data from the images to build a database of the collection.
 
 Research work has been conducted using this application to test whether login pages help or hinder citizen science contribution rates.
 
 _To Sign Up, or not to Sign Up? Maximizing Citizen Science Contribution Rates through Optional Registration_, published at [CHI 2016](http://chi2016.acm.org/).
 
-[https://www.researchgate.net/publication/291356235_To_Sign_Up_or_not_to_Sign_Up_Maximizing_Citizen_Science_Contribution_Rates_through_Optional_Registration](View the paper at ResearchGate).
+[`https://www.researchgate.net/publication/291356235_To_Sign_Up_or_not_to_Sign_Up_Maximizing_Citizen_Science_Contribution_Rates_through_Optional_Registration`](View the paper at ResearchGate).
 
 The code is posted here to assist other researchers and citizen science projects in their work.
 
