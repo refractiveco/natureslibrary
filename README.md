@@ -8,7 +8,9 @@ _To Sign Up, or not to Sign Up? Maximizing Citizen Science Contribution Rates th
 
 [View the paper at ResearchGate »](https://www.researchgate.net/publication/291356235_To_Sign_Up_or_not_to_Sign_Up_Maximizing_Citizen_Science_Contribution_Rates_through_Optional_Registration)
 
-The code is posted here to assist other researchers and citizen science projects in their work.
+The code is posted here to assist other researchers and citizen science projects in their work. 
+
+This project was developed as the thesis project for MSc Advanced Computer Science at the University of Manchester in 2015, and is in ongoing development with postgraduate students at the School of Computer Science. 
 
 ## Installation
 
